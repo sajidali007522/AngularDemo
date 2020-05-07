@@ -1,0 +1,7 @@
+You must need to install angular and node before running this project
+
+- download files 
+- go inside the folder 
+- just run command "npm i"
+- then run "ng-serve"
+- after that just open "http://localhost:4200/" this link in browser
